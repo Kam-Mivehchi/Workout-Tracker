@@ -26,8 +26,11 @@
 ## Questions
 
 Questions will happily be answered by:
+<br>
 Kamyar Mivehchi
+<br>
 [kammivehchi@gmail.com](mailto:kammivehchi@gmail.com)
+<br>
 [Github](https://github.com/Kam-Mivehchi)
 
 
