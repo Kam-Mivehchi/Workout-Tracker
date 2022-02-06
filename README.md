@@ -27,7 +27,7 @@
 
 Questions will happily be answered by:
 Kamyar Mivehchi
-Contact:(MAILTO: kammivehchi@gmail.com)
+Contact:(mailto:kammivehchi@gmail.com)
 github:[Github](#https://github.com/Kam-Mivehchi)
 
 
