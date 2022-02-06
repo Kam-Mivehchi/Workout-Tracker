@@ -1,9 +1,9 @@
 # Workout Tracker
 
 ## Table of Contents
- ### [Description](#Description)
+ ## [Description](#Description)
  <br>
- ### [Screenshots](#screenshots)
+ ## [Screenshots](#screenshots)
  <br>
  ### [License](#license)
  <br>
