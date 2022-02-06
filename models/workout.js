@@ -12,7 +12,7 @@ const workoutSchema = new Schema({
 
     day: {
         type: Date,
-        defualt: Date.now,
+        default: Date.now,
     },
 
     exercises: [
@@ -41,11 +41,27 @@ const workoutSchema = new Schema({
             },
             sets: {
                 type: Number,
+            },
+            distance: {
+                type: Number,
             }
 
         }]
 
 
+
+},
+    {
+        toJSON: {
+            virtuals: true
+        }
+    }
+);
+
+workoutSchema.virtual("totalDuration").get(function () {
+    return this.exercises.reduce((total, exercise) => {
+        return total + exercise.duration;
+    }, 0);
 });
 
 
