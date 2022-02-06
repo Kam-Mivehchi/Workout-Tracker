@@ -1,17 +1,17 @@
 # Workout Tracker
 
 ## Table of Contents
- [Description](#Description)
+ ### [Description](#Description)
  <br>
- [Screenshots](#screenshots)
+ ### [Screenshots](#screenshots)
  <br>
- [License](#license)
+ ### [License](#license)
  <br>
- [Installation](#installation)
+ ### [Installation](#installation)
  <br>
- [Links](#links)
+ ### [Links](#links)
  <br>
- [Questions](#questions)
+ ### [Questions](#questions)
  
  
  ## Description
