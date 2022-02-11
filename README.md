@@ -7,8 +7,6 @@
  <br>
  [License](#license)
  <br>
-[Installation](#installation)
- <br>
 [Links](#links)
  <br>
 [Questions](#questions)
