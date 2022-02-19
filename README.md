@@ -9,7 +9,7 @@
  <br>
  [License](#license)
  <br>
-[Live Deployment](#DeployedLink )
+[Live Deployment](#Link )
  <br>
 [Questions](#questions)
  
@@ -30,7 +30,7 @@
 
 ## Installation
 
-## Deployed Link
+## Link
 https://workout-tracker-2222.herokuapp.com/
 ## Questions
 
