@@ -1,8 +1,6 @@
-<<<<<<< HEAD
-cd # Unit 18 Nosql Homework: Workout Tracker
-=======
+
+
 # Workout Tracker
->>>>>>> 7a50f88b06532fbfcac6837abbd1fc290c6263b1
 
 ## Table of Contents
 [Description](#Description)
